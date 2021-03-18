@@ -1,37 +1,29 @@
 # 单机版开心农场项目
 
 #### 介绍
-使用Javase知识进行开发
+使用 Java+JFrame 等相关知识开发一个单机电脑版的开心农场
 
 #### 软件架构
-软件架构说明
 
+1.  使用java中JFrame类相关知识进行可视化开发
+2.  使用javase阶段知识进行项目开发
+3.  本项目不连接数据库,而是使用`IO流方式`将数据写入本地文件进行数据永久化
+4.  运用`多线程`知识点实现多土地农作物自动生长功能
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  直接运行即可
+2.  相关思维导图与效果图已经传入tools文件夹中
+3.  项目代码为`HappyFarm`
 
-#### 参与贡献
+#### 声明
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1. 本项目为本人学习java阶段的练手项目,学生时期编写,所以代码抽出复用等优化部分并没有去注意,代码质量就那样,不喜勿喷 
 
+#### 大致实现效果
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![游戏主界面](https://images.gitee.com/uploads/images/2021/0318/182524_839e5615_4995263.png "屏幕截图.png")
+![摘取、偷摘、铲除功能](https://images.gitee.com/uploads/images/2021/0318/182634_c5dfa795_4995263.png "屏幕截图.png")
+![自动加入黑名单功能](https://images.gitee.com/uploads/images/2021/0318/182708_8d7280c6_4995263.png "屏幕截图.png")
+![登录提示偷摘者记录](https://images.gitee.com/uploads/images/2021/0318/182729_6869215f_4995263.png "屏幕截图.png")
