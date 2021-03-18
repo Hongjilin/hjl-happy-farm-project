@@ -1,0 +1,31 @@
+#cron id��
+ITEM_ID=17
+#���
+ITEM_NAME=周翔老师的收藏;
+#���Ӽ۸�
+ITEM_PRICE=1
+#ÿ�������۸�
+ITEM_SELL_MONEY=99
+# ����ͼƬ
+ITEM_SEED_PIC=seed.png
+# ��׶�
+ITEM_STAGE=5
+# ���ӽ׶�ͼƬ
+ITEM_STAGE_SEED=cron_start.png
+# ��ժ��ķ�ͼƬ
+ITEM_STAGE_END=cron_end.png
+#��һ�׶�ͼƬ
+ITEM_STAGE_1=1.png
+#����һ�׶�����ʱ��
+ITEM_STAGE_NEXT_TIME_1=2
+ITEM_STAGE_2=2.png
+ITEM_STAGE_NEXT_TIME_2=8
+ITEM_STAGE_3=3.png
+ITEM_STAGE_NEXT_TIME_3=2
+ITEM_STAGE_4=4.png
+ITEM_STAGE_NEXT_TIME_4=8
+ITEM_STAGE_5=5.png
+ITEM_STAGE_NEXT_TIME_5=4
+ITEM_STAGE_6=6.png
+ITEM_STAGE_NEXT_TIME_6=1
+ITEM_NEED_LEVEL=7
