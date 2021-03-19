@@ -23,7 +23,7 @@
 
 #### 大致实现效果
   下面只展出部分效果图
-
+![思维导图](https://images.gitee.com/uploads/images/2021/0319/103442_b5b8729a_4995263.png "下载.png")
 ![游戏主界面](https://images.gitee.com/uploads/images/2021/0318/182524_839e5615_4995263.png "屏幕截图.png")
 ![摘取、偷摘、铲除功能](https://images.gitee.com/uploads/images/2021/0318/182634_c5dfa795_4995263.png "屏幕截图.png")
 ![自动加入黑名单功能](https://images.gitee.com/uploads/images/2021/0318/182708_8d7280c6_4995263.png "屏幕截图.png")
